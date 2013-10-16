@@ -3,6 +3,7 @@ Crab Casserole
 
 #Ingredients
 
+-------- | ---------------------
 1 lb.    | Imitation Crab Meat
 1 cup    | Swiss Cheese (grated)
 1/4 cup  | Butter
