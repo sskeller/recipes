@@ -3,14 +3,14 @@ Crab Casserole
 
 #Ingredients
 
-*  1 lb. Imitation Crab Meat
-*  1 cup Swiss Cheese (grated)
-*  1/4 cup Butter
-*  1/4 cup Flour
-*  1 cup Milk
-*  1 cup Light Cream
-*  1/8 tsp. Dry Mustard
-*  3 shakes Worcestershire Sauce
+1 lb.    | Imitation Crab Meat
+1 cup    | Swiss Cheese (grated)
+1/4 cup  | Butter
+1/4 cup  | Flour
+1 cup    | Milk
+1 cup    | Light Cream
+1/8 tsp. | Dry Mustard
+3 shakes | Worcestershire Sauce
 
 #Directions
 
