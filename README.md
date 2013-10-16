@@ -1,4 +1,4 @@
-recipes
+Keller Recipe Collection
 =======
 
-Keller family recipes
+Replacing the old recipe box with GitHub!
