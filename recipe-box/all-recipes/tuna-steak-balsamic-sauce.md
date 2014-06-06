@@ -34,4 +34,4 @@ Remove to a cutting board.  Slice each steak diangonally into 4-5 slices.  Serve
 
 [Back To Recipes By Categories] (../index.md)
 
-**Categories:** list of categories like: [Seafood] (../seafood.md)
+**Categories:** [Seafood] (../seafood.md)
