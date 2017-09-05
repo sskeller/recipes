@@ -1,7 +1,8 @@
 Spice-Rubbed Tuna Steak with Balsamic Reduction
 =======
 
-##Ingredients
+Ingredients
+-----------
 
 Amount     | Ingredient
 ---------- | ---------------------
@@ -17,7 +18,8 @@ Amount     | Ingredient
 1 clove    | garlic, peeled
 4          | lemon wedges (optional garnish)
 
-##Directions
+Directions
+----------
 
 Place the balsamic vinegar, lemon juice, and garlic in a small saucepan over medium-low heat.  Simmer until the mixture reduces by half.  Turn off heat and reserve until needed (can be served cold).  
 
@@ -27,7 +29,8 @@ Place a think bottomed frying pan or a cast iron skillet over medium-high heat. 
 
 Remove to a cutting board.  Slice each steak diangonally into 4-5 slices.  Serve with sauce drizzled over the tuna or along side it.  Garnish with lemon wedge if desired.
 
-##Tips
+Tips
+----
 
 1.  Don't over season!  The measurements are for 4 tuna steaks, if making only 2, cut the dry ingredients in half.
 
