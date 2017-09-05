@@ -1,17 +1,20 @@
 TITLE
 =======
 
-##Ingredients
+Ingredients
+-----------
 
 Amount   | Ingredient
 -------- | ---------------------
 amount   | list ingredients
 
-##Directions
+Directions
+----------
 
 directions
 
-##Tips
+Tips
+----
 
 1.  numbered list of tips
 
