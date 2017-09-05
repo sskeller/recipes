@@ -1,7 +1,8 @@
 Crab Casserole
-=======
+==============
 
-##Ingredients
+Ingredients
+-----------
 
 Amount   | Ingredient
 -------- | ---------------------
@@ -14,11 +15,13 @@ Amount   | Ingredient
 1/8 tsp. | Dry Mustard
 3 shakes | Worcestershire Sauce
 
-##Directions
+Directions
+----------
 
 Layer casserole dish with alternating layers of crab meat & cheese finishing with a layer of cheese.  Melt the butter and mix with the flour, milk, cream, dry mustard and worcestershire sauce.  Pour mixture over casserole.  Heat at 350° until cheese is melted and crab is hot (about 30 min.).
 
-##Tips
+Tips
+----
 
 1.  Use 1.5 lb of crab meat.
 2.  Use 2 cups of swiss (about one 10oz. Block, grated).
