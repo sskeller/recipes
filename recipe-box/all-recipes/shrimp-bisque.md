@@ -58,6 +58,6 @@ Tips
 
 1.  Replace the shrimp with small lobster tails removing and rough chopping the meat.
 2.  Pour the lemon juice over the shrimp or lobster while the stock is cooking.  It infuses the seafood with a burst of lemon.
-3.  Get extra shrimp or lobster.  Add half before blending for more texture and flavor.
+3.  Double the shrimp or lobster.  Add half before blending for more texture and flavor.
 4.  Serve with fresh italian or french bread for dipping.
 
